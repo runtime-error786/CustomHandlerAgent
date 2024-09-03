@@ -1,7 +1,7 @@
-#Overview
+Overview
 This project is an AI-driven query routing system that processes user queries and directs them to the appropriate processing category: SQL, Vector, or Wikipedia-based retrieval. The system integrates various AI tools and techniques to generate SQL queries, retrieve relevant information from documents or Wikipedia, and provide detailed answers based on the retrieved context.
 
-##Features
+Features
 SQL Query Processing:
 
 The system can generate SQL queries based on user input related to a predefined students table in an SQLite database.
